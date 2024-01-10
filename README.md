@@ -11,3 +11,4 @@ The programs have been divided into levels.
 ###### 4. [Valid Anagram](https://github.com/cupoglee/Simple-Java/blob/main/Valid%20Anagram)
 ###### 5. [Richest Person](https://github.com/cupoglee/Simple-Java/blob/main/Richest%20Person)
 ##### Level 3 - CP Concepts in Java
+###### [Binary tree structure](https://github.com/cupoglee/Simple-Java/blob/main/level-3/Binary-tree-structure)
